@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userponnect",
+        "uuid": 12086799,
+        "checksum": "bkov1j"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
